@@ -1,0 +1,45 @@
+/* Enter your custom CSS here */
+* {
+  font-family: "Lucida Grande", sans-serif;
+  color: #666666;
+  font-size: 20px
+}
+h1 {
+  padding-top: 24px;
+  padding-bottom: 10px;
+  font-size: 48px;
+}
+h2 {
+  margin-left: 0px;
+  margin-top: 0px;
+  margin-bottom: 30px;
+  font-size: 26px; 
+  color: #f07c17;
+  font-weight: bold;
+}
+
+.features {
+  max-width: 80%;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: #cccccc;
+  padding-top: 30px;
+  padding-left: 30px;
+  padding-bottom: 30px;
+  padding-right: 15px;
+  font-size: 20px;
+}
+p{
+  max-width: 100%;
+  margin-top: 1px;
+  margin-bottom: 1px;
+  padding-top: 2px;
+  padding-left: 5px;
+  padding-bottom: 26px;
+ }
+body {
+  font-size: 16px;
+  line-height: 32px;
+}
